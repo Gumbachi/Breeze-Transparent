@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Gumbachi"
+            }
+        ],
+        "Category": "",
+        "Description": "Breeze theme but transparent",
+        "EnabledByDefault": true,
+        "Id": "default",
+        "License": "LGPL",
+        "Name": "Breeze Transparent",
+        "Version": "1.0.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "5.0"
+}

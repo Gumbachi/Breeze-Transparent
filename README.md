@@ -1,6 +1,6 @@
 # Breeze-Transparent
 
-Standard KDE breeze plasma style but more transparent
+Standard KDE breeze plasma style but with transparent panels
 
 ![](assets/taskbar.png)
 
